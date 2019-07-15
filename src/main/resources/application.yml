@@ -4,6 +4,6 @@ server:
   
 spring:
   application:
-    name: tk_mybatis_hhh
+    name: tk_mybatis_b1
 	
 ---
